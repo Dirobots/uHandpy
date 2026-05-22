@@ -13,7 +13,9 @@ We would obviously have to define :
 
 
 The link to the uHandPy documentation is : [uHandPi docs](https://wiki.hiwonder.com/projects/uHandPi/en/latest/docs/1.getting_ready.html#)
+
 A page with an ASL demonstration (for our own understanding) : [ASL letters demonstration](https://alphabet.lingvano.com/glossary/)
+
 A dataset for the ASL letters and numbers : [Kaggle ASL Dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset/data?select=asl_dataset)
 
 
