@@ -60,6 +60,14 @@ An idea to explore is to make the model learn autonomously, on itself.
 
 ---
 
+## Setup Checklist
+ 
+- [ ] Clone current SD card to 128GB card
+- [ ] Expand swap to 4GB
+- [ ] Configure WiFi (client mode for SSH access)
+
+---
+
 ## Resources
 
 - 🤖 [uHandPi docs](https://wiki.hiwonder.com/projects/uHandPi/en/latest/docs/1.getting_ready.html#)
